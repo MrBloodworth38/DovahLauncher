@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dovah Launcher</string>
+    <string name="title">DOVAH LAUNCHER</string>
+    <string name="subtitle">Skyrim on Android</string>
+    <string name="play_skyrim">PLAY SKYRIM</string>
+    <string name="locate_files">Locate Skyrim Files</string>
+    <string name="settings">Settings</string>
+    <string name="disclaimer">Unofficial community project. Users must provide legally acquired game files.</string>
+</resources>

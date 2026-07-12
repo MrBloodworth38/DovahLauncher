@@ -1,0 +1,1 @@
+# Dovah Launcher ProGuard rules.
